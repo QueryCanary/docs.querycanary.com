@@ -90,7 +90,7 @@ Triggered by significant differences in values, types, or structures
 ## Built for Safety
 - Read-only access recommended
 - SSL by default
-- SSH Tunnel available
+- [SSH Tunnel](/docs/ssh-tunnel/) available
 - Credentials are encrypted at rest
 - No raw data is stored — only your SQL and summarized results
 

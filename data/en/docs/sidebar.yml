@@ -6,6 +6,6 @@
 #   pages:
 #     - title: Hello World
 
-# - title: Beyond The Basics
-#   pages:
-#     - title: Modules
+- title: Servers
+  pages:
+    - title: SSH Tunnel
