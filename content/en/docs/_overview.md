@@ -229,6 +229,7 @@ WHERE stock_quantity < 5;
 - Devs who know SQL
 - Data engineers and analysts
 - SaaS teams tired of finding broken dashboards after it’s too late
+- CTOs with disparate teams constantly launching features
 
 ## Get Started
 

@@ -12,7 +12,7 @@ languages:
     contentDir: content/en
     title: QueryCanary Docs
     params:
-      description: Site Description
+      description: Define automated SQL checks against your production databases and get proactive alerts when the data starts to look wrong. 
 
 # To omit the Google Analytics script, put a ~ in place of the G-XXXXXXXXXX below.
 services:
@@ -43,7 +43,7 @@ params:
 
   author:
     name: QueryCanary
-    url: https://github.com/QueryCanary/docs.querycanary.com
+    url: https://querycanary.com
 
   home:
     heading: SQL-Powered Data
