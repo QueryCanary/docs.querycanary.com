@@ -8,4 +8,6 @@
 
 - title: Servers
   pages:
+    - title: PostgreSQL
+    - title: MySQL
     - title: SSH Tunnel

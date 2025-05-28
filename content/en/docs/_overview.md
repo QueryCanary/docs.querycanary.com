@@ -38,7 +38,7 @@ QueryCanary helps you recognize that by letting you:
 
 ## How It Works
 ### 1. Connect your database
-We currently support Postgres + SSH tunneling. Our Quickstart will walk you through setting up a read only user. 
+We currently support [Postgres](/docs/postgresql/) / [MySQL](/docs/mysql/) + [SSH tunneling](/docs/ssh-tunnel/). Our Quickstart will walk you through setting up a read only user. 
 
 More database engines will be introduced as requested, if you need one, please email support@querycanary.com
 
