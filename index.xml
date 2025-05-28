@@ -19,7 +19,7 @@
 &lt;li>A read-only database user&lt;/li>
 &lt;li>Access via direct TCP or through an SSH tunnel&lt;/li>
 &lt;/ul>
-&lt;p>We recommend connecting to a replica or using a read-only role for safety.&lt;/p></description></item><item><title>Using PostgreSQL with QueryCanary</title><link>/docs/servers/postgresql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/servers/postgresql/</guid><description>&lt;p>QueryCanary fully supports PostgreSQL for production data monitoring. This guide walks you through connecting your database, writing SQL checks, and troubleshooting common issues.&lt;/p>
+&lt;p>We recommend connecting to a replica or using a read-only role for safety.&lt;/p></description></item><item><title>Using PostgreSQL with QueryCanary</title><link>/docs/postgresql/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/postgresql/</guid><description>&lt;p>QueryCanary fully supports PostgreSQL for production data monitoring. This guide walks you through connecting your database, writing SQL checks, and troubleshooting common issues.&lt;/p>
 &lt;h2 id="overview">Overview&lt;/h2>
 &lt;p>QueryCanary connects directly to your PostgreSQL database — with or without SSH tunneling — and allows you to define SQL checks to monitor important conditions in your data (e.g. low signups, null prices, broken joins).&lt;/p>
 &lt;p>You can:&lt;/p>
