@@ -10,4 +10,5 @@
   pages:
     - title: PostgreSQL
     - title: MySQL
+    - title: ClickHouse
     - title: SSH Tunnel
